@@ -1,0 +1,13 @@
+.collapse {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.collapse h3 {
+    margin: 0;
+}
+.collapse p {
+    margin: 5px 0;
+    display: none;
+}
